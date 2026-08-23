@@ -6,7 +6,7 @@ Developed a Comprehensive Advanced Excel project by creating interactive dashboa
 The Vrinda Store wants to create an annual sales report for 2022.So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 and 2024.
 
 ## Dataset used
-- <a>Dataset</a>
+- <a href="https://github.com/dhkheni/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis%20Dashboard.xlsx">Dataset</a>
 
 ## Questions / KPIs
 The following business questions were analyzed:
