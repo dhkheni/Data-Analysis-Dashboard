@@ -19,7 +19,7 @@ The following business questions were analyzed:
 - Which sales channel is contributing the maximum sales?
 - What is the highest-selling category?
 - What percentage of total orders were delivered?
-- Dashboard Interaction
+- Dashboard Interaction <a href="https://github.com/dhkheni/Data-Analysis-Dashboard/blob/main/Screenshot%20Dashboard.png">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
