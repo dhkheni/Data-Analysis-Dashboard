@@ -28,7 +28,8 @@ The following business questions were analyzed:
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-The project includes an interactive sales dashboard created using Microsoft Excel.
+<img width="1079" height="415" alt="Screenshot Dashboard" src="https://github.com/user-attachments/assets/3a501654-6cfb-447e-a322-71732715e099" />
+
 
 The dashboard provides insights into:
 - Monthly sales and order trends
