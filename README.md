@@ -19,7 +19,7 @@ The following business questions were analyzed:
 - Which sales channel is contributing the maximum sales?
 - What is the highest-selling category?
 - What percentage of total orders were delivered?
-- Create an interactive dashboard to visualize the analysis.
+- Dashboard Interaction  
 
 ## Dashboard
 The project includes an interactive sales dashboard created using Microsoft Excel.
